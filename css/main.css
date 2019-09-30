@@ -7,6 +7,7 @@ html {
     width: 100%;
   }
   h1,h2{
+    font-family: "Patua One", sans-serif;
     color: #5d8432;
     text-transform: uppercase;
   }
